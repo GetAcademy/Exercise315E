@@ -15,3 +15,13 @@ while (true)
     if (key.KeyChar == '+') numberGenerator.Next();
     else if (key.KeyChar == '-') numberGenerator.Previous();
 }
+
+/*
+
+heltallsdivisjon
+17 / 5 = 3
+17 % 5 = 2
+
+17d / 5 = 3.4d
+
+ */
